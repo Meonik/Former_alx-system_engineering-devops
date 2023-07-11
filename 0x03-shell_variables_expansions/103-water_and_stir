@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%$bestcho\n" $(($(($water#$WATER))+$(($stir#$STIR)))
+printf "%x\n" $(($(($water#$WATER))+$(($stir#$STIR)))
